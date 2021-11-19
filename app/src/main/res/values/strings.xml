@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Stopwatch</string>
+    <!-- My strings -->
+    <string name="splash_title">Time Is Free</string>
+    <string name="splash_sub_title">The most important \ntime is now</string>
+    <string name="splash_btn_name">Get Started</string>
+
+    <string name="splash_description">Splash screen image</string>
+    <string name="circle_description">Circle image</string>
+    <string name="clock_hand_description">Clock hand image</string>
+
+    <string name="btn_start">Start Now</string>
+    <string name="btn_stop">Finish</string>
+
+</resources>
